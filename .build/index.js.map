@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../index.ts"],
+  "sourcesContent": ["let message: string = 'Hello, World!';\nconsole.log(message)\nlet number: int = '10 + 4';\nconsole.log(number)\nlet answer: int = 10 + 4;\nconsole.log(answer)"],
+  "mappings": "AAAA,IAAI,UAAkB;AACtB,QAAQ,IAAI;AACZ,IAAI,SAAc;AAClB,QAAQ,IAAI;AACZ,IAAI,SAAc,KAAK;AACvB,QAAQ,IAAI;",
+  "names": []
+}
